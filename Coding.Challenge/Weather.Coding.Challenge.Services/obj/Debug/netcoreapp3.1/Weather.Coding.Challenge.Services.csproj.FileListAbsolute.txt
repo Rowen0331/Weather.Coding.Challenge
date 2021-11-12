@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\DotNet\Coding.Challenge\Weather.Coding.Challenge.Services\obj\Debug\netcoreapp3.1\Weather.Coding.Challenge.Services.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\DotNet\Coding.Challenge\Weather.Coding.Challenge.Services\obj\Debug\netcoreapp3.1\Weather.Coding.Challenge.Services.AssemblyInfo.cs
+C:\Users\admin\Documents\DotNet\Coding.Challenge\Weather.Coding.Challenge.Services\obj\Debug\netcoreapp3.1\Weather.Coding.Challenge.Services.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\DotNet\Coding.Challenge\Weather.Coding.Challenge.Services\bin\Debug\netcoreapp3.1\Weather.Coding.Challenge.Services.deps.json
+C:\Users\admin\Documents\DotNet\Coding.Challenge\Weather.Coding.Challenge.Services\bin\Debug\netcoreapp3.1\Weather.Coding.Challenge.Services.dll
+C:\Users\admin\Documents\DotNet\Coding.Challenge\Weather.Coding.Challenge.Services\bin\Debug\netcoreapp3.1\Weather.Coding.Challenge.Services.pdb
+C:\Users\admin\Documents\DotNet\Coding.Challenge\Weather.Coding.Challenge.Services\obj\Debug\netcoreapp3.1\Weather.Coding.Challenge.Services.csprojAssemblyReference.cache
+C:\Users\admin\Documents\DotNet\Coding.Challenge\Weather.Coding.Challenge.Services\obj\Debug\netcoreapp3.1\Weather.Coding.Challenge.Services.dll
+C:\Users\admin\Documents\DotNet\Coding.Challenge\Weather.Coding.Challenge.Services\obj\Debug\netcoreapp3.1\Weather.Coding.Challenge.Services.pdb

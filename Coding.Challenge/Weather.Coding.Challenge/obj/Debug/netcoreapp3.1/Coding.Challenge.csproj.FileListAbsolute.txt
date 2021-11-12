@@ -1,0 +1,13 @@
+C:\Users\admin\Documents\DotNet\Coding.Challenge\Coding.Challenge\bin\Debug\netcoreapp3.1\Coding.Challenge.exe
+C:\Users\admin\Documents\DotNet\Coding.Challenge\Coding.Challenge\bin\Debug\netcoreapp3.1\Coding.Challenge.deps.json
+C:\Users\admin\Documents\DotNet\Coding.Challenge\Coding.Challenge\bin\Debug\netcoreapp3.1\Coding.Challenge.runtimeconfig.json
+C:\Users\admin\Documents\DotNet\Coding.Challenge\Coding.Challenge\bin\Debug\netcoreapp3.1\Coding.Challenge.runtimeconfig.dev.json
+C:\Users\admin\Documents\DotNet\Coding.Challenge\Coding.Challenge\bin\Debug\netcoreapp3.1\Coding.Challenge.dll
+C:\Users\admin\Documents\DotNet\Coding.Challenge\Coding.Challenge\bin\Debug\netcoreapp3.1\Coding.Challenge.pdb
+C:\Users\admin\Documents\DotNet\Coding.Challenge\Coding.Challenge\obj\Debug\netcoreapp3.1\Coding.Challenge.csprojAssemblyReference.cache
+C:\Users\admin\Documents\DotNet\Coding.Challenge\Coding.Challenge\obj\Debug\netcoreapp3.1\Coding.Challenge.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\DotNet\Coding.Challenge\Coding.Challenge\obj\Debug\netcoreapp3.1\Coding.Challenge.AssemblyInfo.cs
+C:\Users\admin\Documents\DotNet\Coding.Challenge\Coding.Challenge\obj\Debug\netcoreapp3.1\Coding.Challenge.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\DotNet\Coding.Challenge\Coding.Challenge\obj\Debug\netcoreapp3.1\Coding.Challenge.dll
+C:\Users\admin\Documents\DotNet\Coding.Challenge\Coding.Challenge\obj\Debug\netcoreapp3.1\Coding.Challenge.pdb
+C:\Users\admin\Documents\DotNet\Coding.Challenge\Coding.Challenge\obj\Debug\netcoreapp3.1\Coding.Challenge.genruntimeconfig.cache

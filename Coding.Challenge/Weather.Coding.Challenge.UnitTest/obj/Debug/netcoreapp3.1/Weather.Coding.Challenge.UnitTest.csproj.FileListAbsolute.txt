@@ -1,0 +1,3 @@
+C:\Users\admin\Documents\DotNet\Coding.Challenge\Weather.Coding.Challenge.UnitTest\obj\Debug\netcoreapp3.1\Weather.Coding.Challenge.UnitTest.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\DotNet\Coding.Challenge\Weather.Coding.Challenge.UnitTest\obj\Debug\netcoreapp3.1\Weather.Coding.Challenge.UnitTest.AssemblyInfo.cs
+C:\Users\admin\Documents\DotNet\Coding.Challenge\Weather.Coding.Challenge.UnitTest\obj\Debug\netcoreapp3.1\Weather.Coding.Challenge.UnitTest.csproj.CoreCompileInputs.cache
